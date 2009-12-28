@@ -1,0 +1,36 @@
+=Supporting osc protocols=
+----
+||/press||
+||/led||
+||/led_row||
+||/led_col||
+||/frame||
+||/clear||
+||/sys/prefix||
+
+<br>
+<br>
+
+=In order to use 7up you'll need to do the following=
+----
+1. load monomeEmu device, and you select launchpad and user2 mode.<br>
+2. set Prefix'7up' on monomeEmu.<br>
+3. load sevenUpCore device, and you click 'start/stop connections' button only once.<br>
+<br>
+
+--In monome vertual grid size setting, Please select 'monome64'.--<br>
+--MonomeEmu dose not use the multicolor protocol.--<br>
+--(but I'm planing...)--<br>
+v0.9.2a2 or later, support mutliColorDevice option of 7up.
+"monome64" and "multiColorDevice" can be used either.
+
+7up will working with monomeEmu correctly.<br>
+when you can not change nav menu, please check max window on M4L.<br>
+if java exceptions or Errors string is occured, please reboot your live.<br>
+
+udp(osc) server initializing process on 7up is slow.<br>
+when you click 'start/stop connections' button repeatedly, Java Exception will throw.<br>
+old osc process would continue to send packet.<br>
+
+<br>
+<br>
