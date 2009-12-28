@@ -18,9 +18,9 @@
 3. load sevenUpCore device, and you click 'start/stop connections' button only once.<br>
 <br>
 
---In monome vertual grid size setting, Please select 'monome64'.--<br>
---MonomeEmu dose not use the multicolor protocol.--<br>
---(but I'm planing...)--<br>
+~~In monome vertual grid size setting, Please select 'monome64'.~~<br>
+~~MonomeEmu dose not use the multicolor protocol.~~<br>
+~~(but I'm planing...)~~<br>
 v0.9.2a2 or later, support mutliColorDevice option of 7up.
 "monome64" and "multiColorDevice" can be used either.
 
