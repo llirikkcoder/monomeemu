@@ -9,8 +9,8 @@
 Quad devices emulation patch.<br>
 <br>
 ===Improvements===
-Support mutliColorDevice option of 7up.<br>
 Support multi-device emulation<br>
+Support mutliColorDevice option of 7up.<br>
 Support autofocus of stretta monome suite.<br>
 LED color is editable.<br>
 when you turn on/off autofocus or multicolor, LED will be initialized(light off).<br>
