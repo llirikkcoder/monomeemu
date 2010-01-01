@@ -15,12 +15,15 @@ Support autofocus of stretta monome suite.<br>
 LED color is editable.<br>
 when you turn on/off autofocus or multicolor, LED will be initialized(light off).<br>
 In 7up, monome64 and multiColorDevice can be used either.<br>
-<br>
+
 To switch virtual quad devices, use the buttons "vol", "pan", "sendA" and "sendB" on left side navi.<br>
-<br>
+
 download here.<br>
 http://code.google.com/p/monomeemu/downloads/list
+<br>
 
+v0.9.2 and v0.9.2a3 diff:<br>
+Add annotations of info view in Live. <br>
 <br>
 <br>
 
