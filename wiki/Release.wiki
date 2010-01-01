@@ -1,0 +1,56 @@
+=Release(Stable)=
+
+==v0.9.2==
+----
+<a href="http://www.flickr.com/photos/28867301@N02/4220976509/" title="monomeemu0.9.2a2 by soundflowermakesnoise., on Flickr"><img src="http://farm3.static.flickr.com/2511/4220976509_e9cdf5e760_o.png" width="512" height="202" alt="monomeemu0.9.2a2" /></a>
+<br>
+<a href="http://www.flickr.com/photos/28867301@N02/4221112173/" title="monomeemuQuad0.9.2a2 by soundflowermakesnoise., on Flickr"><img src="http://farm3.static.flickr.com/2566/4221112173_162022a410_o.png" width="513" height="200" alt="monomeemuQuad0.9.2a2" /></a>
+===Add===
+Quad devices emulation patch.<br>
+<br>
+===Improvements===
+Add quad devices emulation.<br>
+Support mutliColorDevice option of 7up.<br>
+Support multi-device emulation<br>
+Support autofocus of stretta monome suite.<br>
+LED color is editable.<br>
+when you turn on/off autofocus or multicolor, LED will be initialized(light off).<br>
+In 7up, monome64 and multiColorDevice can be used either.<br>
+<br>
+To switch virtual quad devices, use the buttons "vol", "pan", "sendA" and "sendB" on left side navi.<br>
+<br>
+download here.<br>
+http://code.google.com/p/monomeemu/downloads/list
+
+<br>
+<br>
+
+==Update:0.9.1.1==
+----
+Optimization only
+Maybe low-latency...?
+
+<br>
+<br>
+
+==Update:0.9.1==
+----
+<a href="http://www.flickr.com/photos/28867301@N02/4208993154/" title="monomeEmu091 by soundflowermakesnoise., on Flickr"><img src="http://farm3.static.flickr.com/2720/4208993154_5544ed4d08_o.png" width="341" height="200" alt="monomeEmu091" /></a>
+
+===Bugfixes===
+when you switch user2 to other mode(session, user1 mixer), LED will accurately reflect the state of the currnent mode. and Pad buttons will be reflected only in the current mode.
+
+===Improvements===
+OSC Host/Listen Ports is editable.
+
+<br>
+<br>
+
+==Update:0.9==
+----
+<a href="http://www.flickr.com/photos/28867301@N02/4202902178/" title="monomeEmuDevice by soundflowermakesnoise., on Flickr"><img src="http://farm3.static.flickr.com/2505/4202902178_cf0dbc50f3_o.png" width="379" height="201" alt="monomeEmuDevice" /></a>
+
+Initial release.
+
+<br>
+<br>
