@@ -9,7 +9,6 @@
 Quad devices emulation patch.<br>
 <br>
 ===Improvements===
-Add quad devices emulation.<br>
 Support mutliColorDevice option of 7up.<br>
 Support multi-device emulation<br>
 Support autofocus of stretta monome suite.<br>
