@@ -6,6 +6,10 @@
 
 ===Add===
 monome256 emulation patch.<br>
+one launchpad will emulate to 4 parts of monome256(left-top, right-top, left-bottom, right-bottom).<br>
+To switch, use the buttons "vol", "pan", "sendA" and "sendB" on left side navi.<br>
+<br>
+You can use 7up in multiColor256 setting.
 <br>
 
 ===Improvements===
