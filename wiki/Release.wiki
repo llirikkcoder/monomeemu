@@ -4,7 +4,7 @@
 ----
 <a href="http://www.flickr.com/photos/28867301@N02/4245027518/" title="monomeemu256_0.9.3 by soundflowermakesnoise., on Flickr"><img src="http://farm5.static.flickr.com/4004/4245027518_61ed600c5a_o.png" width="513" height="201" alt="monomeemu256_0.9.3" /></a>
 
-===Add===
+===Add(EXPERIMENTAL)===
 monome256 emulation patch.<br>
 One launchpad will emulate to 4 parts of monome256(left-top, right-top, left-bottom, right-bottom).<br>
 To switch, use the buttons "vol", "pan", "sendA" and "sendB" on left side navi.<br>
