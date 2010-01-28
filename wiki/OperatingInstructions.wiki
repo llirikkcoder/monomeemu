@@ -2,17 +2,17 @@
 
 = Features =
 
- * Multi Emulator Devices(monome64 ,128, 256)
- * Multi Lanchpads
+<a href="http://www.flickr.com/photos/28867301@N02/4311250826/" title="Features by soundflowermakesnoise., on Flickr"><img src="http://farm5.static.flickr.com/4044/4311250826_fbd6521d04.jpg" width="500" height="445" alt="Features" /></a>
+
+ * 8 Emulator Devices(monome64 ,128 or 256)
+ * 6 Lanchpads
  * Multi Color Device
  * AutoConfigration
  * AutoFocus
 
-==About AutoConfigration==
+About AutoConfigration:<br>
  * http://docs.monome.org/doku.php?id=app:autoconfig
  * http://www.loop-party.com/
-
-autoconfiguration and MonoRoute discussion thread:<br>
 
 = Installation =
 
@@ -21,10 +21,26 @@ Install Bonjour service on your machine. Download: http://support.apple.com/down
 
 = Settings =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+<a href="http://www.flickr.com/photos/28867301@N02/4310521271/" title="Settings by soundflowermakesnoise., on Flickr"><img src="http://farm5.static.flickr.com/4047/4310521271_8c51a48acd.jpg" width="500" height="165" alt="Settings" /></a>
+
+====1. Launchpad initialization====
+
+====2. Change Emulator View====
+ * If you change emulator from launchpad, you can also use the right menu buttons(vol, pan, sndA, sndB, stop, trkOn, solo and arm).
+
+====3. LED View====
+ * monome64 has 1 view.
+ * monome128 has 2 view.
+ * monome256 has 4view.
+* If you change emulator from launchpad, you can also use the top menu buttons(learn, view, 'page<' and 'page>').
+
+====4. Emulator Configs====
+ * Change Emulator Device Type and LED Colors.
+ * Sub color is only used on MultiColorDevice.
+
+====5. OSC Connection(Use autoconfig, autofocus or manual)====
+ * when you use manual connection please setup host port, receive port and osc prefix.
+
 
 = OSC Protocols =
 ||/press||
