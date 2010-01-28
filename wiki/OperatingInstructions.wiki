@@ -3,7 +3,7 @@
 <a href="http://www.flickr.com/photos/28867301@N02/4311250826/" title="Features by soundflowermakesnoise., on Flickr"><img src="http://farm5.static.flickr.com/4044/4311250826_fbd6521d04.jpg" width="500" height="445" alt="Features" /></a>
 
  * 8 Emulator Devices(monome64 ,128 or 256)
- * 6 Lanchpads
+ * 6 Launchpads
  * Multi Color Device
  * autoConfigration
  * autoFocus
