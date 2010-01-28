@@ -1,9 +1,23 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
+= Features =
 
+ * Multi Emulator Devices(monome64 ,128, 256)
+ * Multi Lanchpads
+ * Multi Color Device
+ * AutoConfigration
+ * AutoFocus
 
+==About AutoConfigration==
+ * http://docs.monome.org/doku.php?id=app:autoconfig
+ * http://www.loop-party.com/
 
+autoconfiguration and MonoRoute discussion thread:<br>
+
+= Installation =
+
+PC only
+Install Bonjour service on your machine. Download: http://support.apple.com/downloads/Bonjour_for_Windows
 
 = Settings =
 
@@ -11,3 +25,12 @@ Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
+
+= OSC Protocols =
+||/press||
+||/led||
+||/led_row||
+||/led_col||
+||/frame||
+||/clear||
+||/sys/prefix||
