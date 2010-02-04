@@ -48,6 +48,13 @@ Download: http://support.apple.com/downloads/Bonjour_for_Windows
  * when you use manual connection you must setup host port, receive port and osc prefix.
 
 <br>
+<br>
+
+<wiki:video url="http://www.youtube.com/watch?v=tgOiTFYZZWE"/>
+
+<br>
+<br>
+
 = OSC Protocols =
  * /press
  * /led
